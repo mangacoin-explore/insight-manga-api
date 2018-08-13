@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "mangacore-lib": "^0.13.22",
-    "mangacore-message": "^1.0.5",
+    "mangacore-lib": "https://github.com/neginegi0/mangacore-lib/archive/segwit.tar.gz",
+    "mangacore-message": "https://github.com/neginegi0/mangacore-message/archive/master.tar.gz",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
