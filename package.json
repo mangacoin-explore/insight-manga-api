@@ -1,8 +1,8 @@
 {
-  "name": "insight-lite-api",
-  "description": "A Litecoin blockchain REST and web socket API service for Litecore Node.",
+  "name": "insight-manga-api",
+  "description": "A Mangacoin blockchain REST and web socket API service for Mangacore Node.",
   "version": "0.4.4",
-  "repository": "git://github.com/litecoin-project/insight-lite-api.git",
+  "repository": "git://github.com/mangacoinproject/insight-manga-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,18 +38,18 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/litecoin-project/insight-lite-api/issues"
+    "url": "https://github.com/mangacoinproject/insight-manga-api/issues"
   },
-  "homepage": "https://github.com/litecoin-project/insight-lite-api",
+  "homepage": "https://github.com/mangacoinproject/insight-manga-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "litecoin api",
+    "mangacoin api",
     "blockchain api",
     "json",
-    "litecore"
+    "mangacore"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "litecore-lib": "^0.13.22",
-    "litecore-message": "^1.0.5",
+    "mangacore-lib": "^0.13.22",
+    "mangacore-message": "^1.0.5",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",

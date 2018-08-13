@@ -39,8 +39,8 @@
 		]
 	},
 	{
-	  	"poolName": "LitecoinPool",
-	  	"url": "https://litecoinpool.org",
+	  	"poolName": "MangacoinPool",
+	  	"url": "https://mangacoinpool.org",
 	  	"searchStrings": [
 		  	"/LP/"
 		]
