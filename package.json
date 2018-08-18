@@ -58,7 +58,7 @@
     "test": "NODE_ENV=test mocha -R spec --recursive"
   },
   "main": "lib",
-  "bitcoreNode": "lib",
+  "mangacoreNode": "lib",
   "dependencies": {
     "async": "*",
     "mangacore-lib": "https://github.com/neginegi0/mangacore-lib/archive/segwit.tar.gz",
